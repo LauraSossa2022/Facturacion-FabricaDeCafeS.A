@@ -12,4 +12,9 @@ public interface FacturaDAO extends CrudRepository<Factura,Long>{
 	@Query("select f from Factura f join fetch f.cliente c where f.cliente.id =?1")
 	public List<Factura> fetchFacturaByIDCliente(Long id);
 
+<<<<<<< HEAD
 }
+
+=======
+}
+>>>>>>> 564036f9ecb251729d33cc564710cd95c35beabf

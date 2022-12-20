@@ -13,4 +13,8 @@ public interface IProductoService {
 	public void save(Producto producto);
 	
 	public Page<Producto> findAll(Pageable pageable);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 564036f9ecb251729d33cc564710cd95c35beabf

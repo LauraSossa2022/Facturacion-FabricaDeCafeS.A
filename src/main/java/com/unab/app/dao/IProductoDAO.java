@@ -13,4 +13,7 @@ public interface IProductoDAO extends PagingAndSortingRepository<Producto, Long>
 	public Producto findByNombre(String nombre);
 	
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> 564036f9ecb251729d33cc564710cd95c35beabf

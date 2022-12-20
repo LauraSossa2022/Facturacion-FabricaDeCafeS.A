@@ -16,4 +16,7 @@ public interface IFacturaService {
 	
 	public void updateFactura(Long idFactura, Long idProducto);
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> 564036f9ecb251729d33cc564710cd95c35beabf
