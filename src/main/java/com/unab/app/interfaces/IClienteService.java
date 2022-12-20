@@ -18,5 +18,9 @@ public interface IClienteService {
 	public Cliente findOne(Long id);
 
 	public ResponseEntity<String> delete(Long id);
+<<<<<<< HEAD
 }
 
+=======
+}
+>>>>>>> 564036f9ecb251729d33cc564710cd95c35beabf

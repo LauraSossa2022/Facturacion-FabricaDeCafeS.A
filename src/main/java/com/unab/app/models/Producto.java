@@ -1,5 +1,8 @@
 package com.unab.app.models;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 564036f9ecb251729d33cc564710cd95c35beabf
 import java.io.Serializable;
 
 import javax.persistence.Column;
@@ -78,3 +81,7 @@ public class Producto implements Serializable {
 	}
 
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 564036f9ecb251729d33cc564710cd95c35beabf

@@ -106,4 +106,7 @@ public class Cliente implements Serializable {
 	}
 
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 564036f9ecb251729d33cc564710cd95c35beabf

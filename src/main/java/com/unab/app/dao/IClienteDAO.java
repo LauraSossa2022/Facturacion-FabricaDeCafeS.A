@@ -7,4 +7,8 @@ import com.unab.app.models.Cliente;
 @Repository
 public interface IClienteDAO extends PagingAndSortingRepository<Cliente, Long>{
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 564036f9ecb251729d33cc564710cd95c35beabf
